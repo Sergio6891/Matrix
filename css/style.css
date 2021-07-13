@@ -1,1 +1,17 @@
-/* No CSS */
+.conteiner {
+  width: 1110px;
+  margin: 0 auto;
+}
+
+.conteiner .recent-flex {
+  display: flex;
+}
+
+.conteiner .recent-flex__left {
+  display: flex;
+}
+
+.conteiner .recent-flex__right {
+  display: flex;
+  flex-wrap: wrap;
+}
