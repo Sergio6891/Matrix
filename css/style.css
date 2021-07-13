@@ -9,9 +9,11 @@
 
 .conteiner .recent-flex__left {
   display: flex;
+  align-items: flex-start;
 }
 
 .conteiner .recent-flex__right {
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
